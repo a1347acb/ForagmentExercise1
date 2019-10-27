@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="LoginWidth">300dp</dimen>
+    <dimen name="LoginHeight">60dp</dimen>
+    <dimen name="LoginMargin">20dp</dimen>
+</resources>

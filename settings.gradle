@@ -1,0 +1,2 @@
+include ':app', ':exercise_1', ':choose_one', ':bussitemessage', ':actwidthheight'
+rootProject.name='Exercise'

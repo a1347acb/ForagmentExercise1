@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="BusTitleItemsMargin">20dp</dimen>
+
+    <!--站点信息-->
+    <dimen name="busMessageItemsTextSize">18sp</dimen>
+</resources>

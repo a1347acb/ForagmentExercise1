@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Items_Height">150dp</dimen>
+
+    <dimen name="Items_Values_Width">60dp</dimen>
+    <dimen name="Items_Values_Height">60dp</dimen>
+</resources>
